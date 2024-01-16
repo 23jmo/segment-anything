@@ -41,4 +41,7 @@ _darcs
 yarn.lock
 package-lock.json
 
+#the fat image
+.tif
+
 .java
